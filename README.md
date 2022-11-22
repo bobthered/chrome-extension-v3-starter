@@ -6,10 +6,10 @@
 
 Main changes for this were:
 
-1. [Update manifest.json](#update-manifest.json)
-2. [Update popup.html](#update-popup.html)
-3. [Add popup.js](#add-popup.js)
-4. [Update foreground.js](#update-foreground.js)
+1. [Update manifest.json](#update-manifestjson)
+2. [Update popup.html](#update-popuphtml)
+3. [Add popup.js](#add-popupjs)
+4. [Update foreground.js](#update-foregroundjs)
 
 ## Update manifest.json
 
